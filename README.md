@@ -5,12 +5,12 @@ RED led as ignition key.
 BLUE , GREEN , ORANGE leds as wiper.
 When switch is long pressed for 2s, Ignition Key Position will be at ACC (i.e.) Red led will be ON. On press of the user input, Blue, Green and Orange leds come ON one at a time with the set frequency, The frequency changes on every alternate key press, 3 frequency levels with 1, 4 and 8 Hz. On the 4th press of the switch, led glow pattern gets stopped. When again switch is long pressed for 2s , Ignition Key Position will be at Lock (i.e.) Red led will be OFF.
 
-#Guide Manual
+# Guide Manual<br />
 1.Press user button for 2 seconds >>> wiper is in on state<br />
-2.Click user button once          >>> wiper will start working at freq=1Hz
-3.Click user button 2nd time      >>> wiper will start working at freq=4Hz
-4.Click user button 3rd time      >>> wiper will start working at freq=8Hz
-5.At any stage if the user button will be pressed for 2 sec then the wiper will shutdown
+2.Click user button once          >>> wiper will start working at freq=1Hz<br />
+3.Click user button 2nd time      >>> wiper will start working at freq=4Hz<br />
+4.Click user button 3rd time      >>> wiper will start working at freq=8Hz<br />
+5.At any stage if the user button will be pressed for 2 sec then the wiper will shutdown<br />
 
 # Folder Structure
 Folder             | Description
