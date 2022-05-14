@@ -47,6 +47,8 @@ Folder             | Description
 # BADGES
 * Codiga - Static Analysis
 [![Quality](https://api.codiga.io/project/33464/score/svg)]
+* Code grade
+[![Quality](https://api.codiga.io/project/33464/status/svg)]
 * Code quality
 [![CodeQL](https://github.com/Stephenj071/M3_Wiper_Control_System/actions/workflows/c-ccpp.yml/badge.svg?branch=main)](https://github.com/Stephenj071/M3_Wiper_Control_System/actions/workflows/c-ccpp.yml)
 * Codacy
