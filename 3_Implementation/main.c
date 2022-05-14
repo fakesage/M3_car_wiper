@@ -24,7 +24,7 @@ int main(void)
 {
 
 	init_all_led();				// LED Initialisation
-	init_button();				// Butoon Initialiasation
+	init_button();				// Button Initialiasation
 
 	while (1)
 	{
@@ -37,7 +37,7 @@ int main(void)
 		else if (press == 2)                        //Activate buttons count according to function
 		{
 			    led_on(LED_BLUE);
-				user_delay_ms(1000);      //  this function is for 1hz frequency
+				user_delay_ms(1000);      //   for 1hz frequency
 				led_off(LED_BLUE);
 				user_delay_ms(1000);
 				led_on(LED_GREEN);
@@ -53,7 +53,7 @@ int main(void)
 		else if (press == 3)
 		{
 			    led_on(LED_BLUE);
-				user_delay_ms(250);			//  this function is for 4hz frequency
+				user_delay_ms(250);			//  for 4hz frequency
 				led_off(LED_BLUE);
 				user_delay_ms(250);
 				led_on(LED_GREEN);
@@ -69,7 +69,7 @@ int main(void)
 		else if (press == 4)
 		{
 			    led_on(LED_BLUE);
-				user_delay_ms(125);			//  this function is for 8hz frequency
+				user_delay_ms(125);			//  for 8hz frequency
 				led_off(LED_BLUE);
 				user_delay_ms(125);
 				led_on(LED_GREEN);
