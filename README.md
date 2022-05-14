@@ -43,6 +43,17 @@ Folder             | Description
 # Integrated Tools to GitHub
 * [Codacy](https://www.codacy.com/)
 * [Codiga](https://www.codiga.io/)
+
+# BADGES
+* Codiga - Static Analysis
+[![Quality](https://api.codiga.io/project/33313/score/svg)]
+* Code quality
+[![CodeQL](https://github.com/Stephenj071/M3_Wiper_Control_System/actions/workflows/c-ccpp.yml/badge.svg?branch=main)](https://github.com/Stephenj071/M3_Wiper_Control_System/actions/workflows/c-ccpp.yml)
+* Codacy
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7bce658e1bda43a7943010ca2f5fcfb9)](https://www.codacy.com/gh/fakesage/M3_car_wiper/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=fakesage/M3_car_wiper&amp;utm_campaign=Badge_Grade)
+* Build on Linux
+[![Build-Linux](https://github.com/Stephenj071/M3_Wiper_Control_System/actions/workflows/buildonlinux.yml/badge.svg?branch=main)](https://github.com/Stephenj071/M3_Wiper_Control_System/actions/workflows/buildonlinux.yml)
+
 # GitHub Actions
 * Build using Make for CI
 * Unit tests with Cunit
