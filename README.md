@@ -1,4 +1,7 @@
 # Wiper Control System
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d64c941978c5464c9b586000071e8cb8)](https://app.codacy.com/gh/fakesage/M3_car_wiper?utm_source=github.com&utm_medium=referral&utm_content=fakesage/M3_car_wiper&utm_campaign=Badge_Grade_Settings)
+
 ![image](https://i0.wp.com/gomechanic.in/blog/wp-content/uploads/2020/06/Car-Wipers.jpg?w=874&ssl=1)
 
  In this project  STM32F407vg arm microcontroller has been used. Considering the 4 leds as wiper and through switch present in STM32 board we are going to control wiper actions.
