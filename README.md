@@ -14,6 +14,22 @@ When switch is long pressed for 2s, Ignition Key Position will be at ACC (i.e.) 
 4.Click user button 3rd time      >>> wiper will start working at freq=8Hz<br />
 5.At any stage if the user button will be pressed for 2 sec then the wiper will shutdown<br />
 
+# SWOT Analysis 
+## Strength
+* Visibility
+* speed control
+
+## Weakness 
+* No automation
+* Costly
+
+## Opportunity
+* Can be automated 
+* Sensors can be used to help detect rain
+
+## Threats 
+* Once the board repaired cannot be replaced quickly
+
 # Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
