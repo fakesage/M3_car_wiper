@@ -29,7 +29,6 @@ By using STM32F407,buttons,4 LED's the project should be done using the timers a
 # 4W & H (WHO,WHAT,WHEN,WHERE,HOW):
 * Accept that the car is the microcontroller. Assuming the button is hit, the main drove (red) will turn on, Clicking again the wiper will begin, and the subsequent drove (blue) will turn on for an ideal rate. On the off chance that the button is squeezed once more, the third driven (green) will turn on, and the wiper's speed will be expanded in contrast with the past one. The fourth press will turn on the fourth driven (orange), and the wiper speed will be expanded as per the past one. The microcontroller (vehicle) is switched off after the fifth snap.
 
-# Utilizes:
 # WHAT:
 * The operational speed of a vehicle wiper is controlled by a wiper speed control mechanism based on rain conditions. To generate, the control system incorporates a rain sensor (30) that detects rain conditions. The amplitude of an analogue signal depends on the detected rain conditions.
 # WHY:
