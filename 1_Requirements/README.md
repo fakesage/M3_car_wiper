@@ -40,4 +40,20 @@
 * Highly REgulated Industry
 * MTM delayed adapation.
 
+# REQUIREMENTS:
+## High level requirements:
+| S.no | High level requirement | Description | Status |
+| :---:| :---: | :---: | ---: |
+| 1 | HLR-1 |  STM32F407 | Done |
+| 2 | HLR-2 | Cygwin | Done |
+| 3 | HLR-3 | Qemu | Done |
+| 4 | HLR-4 | ON/OFF Push button | Done |
 
+## Low level requirements:
+| S.no | Low level requirements | Description | Status |
+| :---: | :---: | :---: | ---: |
+| 1 | LR-1 | RED led ON | Done |
+| 2 | LR-2 | leds blinking with 1hz frequency | Done |
+| 3 | LR-3 | leds blinking with 4hz frequency | Done |
+| 4 | LR-4 | leds blinking with 8hz frequency | Done |
+| 5 | LR-5 | RED led OFF | Done |
